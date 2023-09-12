@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: rgb(8, 8, 105);
+  background: linear-gradient(to right, #7e817f, #0c0301, #030115, #020c04);
   color: white;
 }
 
@@ -31,6 +31,7 @@ input {
   padding: 15px 20px;
   margin: 10px 0;
   border-radius: 8px;
+  background-color: blanchedalmond;
 }
 
 button {
